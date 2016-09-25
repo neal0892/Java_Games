@@ -35,7 +35,7 @@ public class GuessTheNumber {
 		GuessTheNumber guess = new GuessTheNumber();
 		System.out.println("Enter the number to get started ");
 		guess.play();
-
+		System.out.println("Intential change made to check learn git");
 	}
 
 	// TODO Auto-generated method stub
